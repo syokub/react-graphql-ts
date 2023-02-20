@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Main = () => {
   return (
-    <div>Main</div>
+    <div>Main page</div>
   )
 }
 export default Main;
